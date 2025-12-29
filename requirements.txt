@@ -1,0 +1,22 @@
+# Yes24 도서 데이터 대시보드 프로젝트 요구사항
+# Python 버전 권장: 3.9 이상
+
+# 웹 프레임워크 및 대시보드
+streamlit
+plotly
+
+# 데이터 분석 및 처리
+pandas
+numpy
+statsmodels  # Plotly 추세선(ols) 분석용
+
+# 데이터 시각화
+matplotlib
+seaborn
+
+# 데이터 크롤링
+requests
+beautifulsoup4
+
+# 유틸리티
+tabulate  # 데이터프레임 마크다운 변환용
